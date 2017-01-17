@@ -103,10 +103,10 @@ nav ul {
 	list-style-type: none;
 	padding: 5px 0px 5px 0px;
 }
+.searchui {width: 5px;}
 nav ul li .searchui {
 	display: inline;
 	padding: 5px 10px 5px 10px;
-	float: auto;
 }
 /*.searchui {
 	
