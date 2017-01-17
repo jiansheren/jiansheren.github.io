@@ -107,11 +107,8 @@ nav ul li {
 	display: inline;
 	padding: 5px 10px 5px 10px;
 }
-＃searchui {
-	<!--
-	display: inline;
-	padding: 5px 10px 5px 10px;
-	-->
+.searchui {
+	
 	float: right;
 }
 nav ul li a:link, nav ul li a:visited {
