@@ -110,8 +110,8 @@ nav ul {
 
 nav ul li {
 	display: inline;
-	padding: 5px 10px 5px 10px;
 	
+	/*padding: 5px 10px 5px 10px;*/
 }
 #searchui{
   display: inline;
@@ -119,12 +119,7 @@ nav ul li {
   left: 445px;
   top: 0px;
 }
-/*.searchui {
-	
-	display: inline;
-	padding: 5px 10px 5px 10px;
-	float: right;
-}*/
+
 nav ul li a:link, nav ul li a:visited {
 	color: #954b4b;
 	border-bottom: none;
