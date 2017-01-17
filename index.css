@@ -48,7 +48,7 @@ section#main, section#blog {
   font-size:        105%;
   padding:          15px;
   vertical-align: top;
-  width: 80%;	
+  width: 60%;	
 }
 
 aside {
@@ -57,6 +57,7 @@ aside {
   font-size:        105%;
   padding:          15px;
   vertical-align: top;
+  width: 20%;
 }
 
 footer {
