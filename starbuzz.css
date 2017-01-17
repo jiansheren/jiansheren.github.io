@@ -107,7 +107,7 @@ nav ul li {
 	display: inline;
 	padding: 5px 10px 5px 10px;
 }
-form＃searchform {
+form＃searchform .box .button {
 	display: inline;
 	padding: 5px 10px 5px 10px;
 	float: right;
