@@ -103,15 +103,16 @@ nav ul {
 	list-style-type: none;
 	padding: 5px 0px 5px 0px;
 } 
-#searchform {
-	display: inline;
-	float: right;}
+
 
 
 nav ul li  {
 	display: inline;
 	padding: 5px 10px 5px 10px;
 }
+#searchform {
+	display: inline;
+	float: right;}
 /*.searchui {
 	
 	display: inline;
