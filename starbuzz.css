@@ -103,7 +103,11 @@ nav ul {
 	list-style-type: none;
 	padding: 5px 0px 5px 0px;
 }
-nav ul li form.search {
+nav ul li {
+	display: inline;
+	padding: 5px 10px 5px 10px;
+}
+nav ul li serach {
 	display: inline;
 	padding: 5px 10px 5px 10px;
 }
