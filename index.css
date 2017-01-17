@@ -117,7 +117,7 @@ nav ul li {
 #searchui{
   display: inline;
   position: relative;
-  right:10px;
+  right:0px;
   top: 0px;
 }
 
