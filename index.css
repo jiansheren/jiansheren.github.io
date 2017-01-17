@@ -31,7 +31,7 @@ div#tableContainer {
 
 div#tableRow {
 	display: table-row;
-	table-layout: fixed;
+	
 }
 section#drinks {
     display: table-cell;
@@ -40,6 +40,7 @@ section#drinks {
     padding: 15px;
     vertical-align: top;  
     width: 250px;
+	table-layout: fixed;
     
 }
 
@@ -51,6 +52,7 @@ section#main, section#blog {
   padding:          15px;
   vertical-align: top;
   width: 250px;
+	table-layout: fixed;
 }
 
 aside {
@@ -60,8 +62,8 @@ aside {
   padding:          15px;
   vertical-align: top;
   width: 250px;
+	table-layout: fixed;
 }
-
 footer {
   background-color: #675c47;
   color:            #efe5d0;
