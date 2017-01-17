@@ -105,7 +105,7 @@ nav ul {
 }
 .searchui .box .button {width: 5px;
            height: 5px;}
-nav ul li .searchui {
+nav ul li  {
 	display: inline;
 	padding: 5px 10px 5px 10px;
 }
