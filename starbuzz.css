@@ -103,10 +103,12 @@ nav ul {
 	list-style-type: none;
 	padding: 5px 0px 5px 0px;
 } 
-#searchform {float: right;}
+#searchform {
+	display: inline;
+	float: right;}
 
 
-nav ul li  #searchform {
+nav ul li  {
 	display: inline;
 	padding: 5px 10px 5px 10px;
 }
