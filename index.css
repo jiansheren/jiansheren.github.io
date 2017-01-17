@@ -39,7 +39,7 @@ section#drinks {
     /*width: 20%;*/
     padding: 15px;
     vertical-align: top;  
-    width: 250px;
+    width: 250;
 	table-layout: fixed;
     
 }
@@ -51,7 +51,7 @@ section#main, section#blog {
   font-size:        105%;
   padding:          15px;
   vertical-align: top;
-  width: 250px;
+  width: 250;
 	table-layout: fixed;
 }
 
@@ -61,7 +61,7 @@ aside {
   font-size:        105%;
   padding:          15px;
   vertical-align: top;
-  width: 250px;
+  width: 250;
 	table-layout: fixed;
 }
 footer {
