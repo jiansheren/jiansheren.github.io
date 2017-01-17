@@ -39,8 +39,7 @@ section#drinks {
     /*width: 20%;*/
     padding: 15px;
     vertical-align: top;  
-    width: 250;
-	table-layout: fixed;
+  
     
 }
 
@@ -51,8 +50,7 @@ section#main, section#blog {
   font-size:        105%;
   padding:          15px;
   vertical-align: top;
-  width: 250;
-	table-layout: fixed;
+  
 }
 
 aside {
@@ -61,8 +59,7 @@ aside {
   font-size:        105%;
   padding:          15px;
   vertical-align: top;
-  width: 250;
-	table-layout: fixed;
+
 }
 footer {
   background-color: #675c47;
@@ -120,7 +117,7 @@ nav ul li {
 #searchui{
   display: inline;
   position: relative;
-  left: 445px;
+  right:10px;
   top: 0px;
 }
 
