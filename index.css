@@ -29,7 +29,7 @@ div#tableContainer {
 	border-spacing: 10px;
 	table-layout: fixed;
 	word-wrap:break-word;
-	width: 100%;
+	width: 10%;
 }
 
 div#tableRow {
