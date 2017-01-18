@@ -39,7 +39,7 @@ div#tableRow {
 section#drinks {
     display: table-cell;
     background-color: #efe5d0;
-    width: 100%;
+    width: 20%;
     padding: 15px;
     vertical-align: top;  
   
@@ -53,7 +53,7 @@ section#main, section#blog {
   font-size:        105%;
   padding:          15px;
   vertical-align: top;
-	width: 100%;
+	width: 60%;
   
 }
 
@@ -63,7 +63,7 @@ aside {
   font-size:        105%;
   padding:          15px;
   vertical-align: top;
-	width: 100%;
+	width: 20%;
 	
 
 }
