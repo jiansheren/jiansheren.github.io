@@ -4,6 +4,11 @@ body {
   font-size:        small;
   margin:           0px;
 }
+#absolute {
+position:fixed;
+	left:0;
+	top:0;
+}
 
 /* 
 	height messes up the headers in the blog in the articles
