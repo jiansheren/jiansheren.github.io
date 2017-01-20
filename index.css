@@ -110,6 +110,7 @@ nav {
 nav ul {
 	margin: 0px;
 	list-style-type: none;
+	 margin: 10px 0px 10px 0px;
 	 padding: 10px 0px 10px 0px;
       /* padding: 5px 0px 5px 0px;*/	
 } 
