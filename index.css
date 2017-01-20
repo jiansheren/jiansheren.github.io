@@ -32,8 +32,8 @@ div#tableContainer {
 	width: 100%;
 }
 
-div#tableRow {
-	display: table-row;
+div#tableRow {	
+display: table-row;
 	
 }
 section#drinks {
@@ -115,10 +115,8 @@ nav ul {
      padding: 5px 0px 5px 0px;	
 } 
 
-
-
 nav ul li {
-	margin: 0px 0px 0px 0px;
+	margin: 10px 0px 10px 0px;
 	display: inline;
 	/*padding: 5px 10px 5px 10px;*/
 	padding: 0px 10px 0px 10px;
