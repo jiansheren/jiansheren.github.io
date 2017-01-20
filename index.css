@@ -105,10 +105,9 @@ nav {
     background-color: #efe5d0;
 	  font-size:  142%;
 	margin: 10px 10px 0px 10px;
-	display: inline;
 }
 nav ul {
-	margin: 0px;
+	margin: 0px  0px  0px  0px;
 	list-style-type: none;
 	
 	   /*padding: 10px 0px 10px 0px;*/
