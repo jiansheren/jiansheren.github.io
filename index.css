@@ -122,9 +122,10 @@ nav ul li {
 }
 #searchui{
   display: inline;
-  position: relative;
+  /*position: relative;
   left:540px;
-  top: 0px;
+  top: 0px;*/
+	float: right;
 }
 nav ul li a:link, nav ul li a:visited {
 	color: #954b4b;
