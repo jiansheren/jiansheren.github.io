@@ -32,7 +32,7 @@ div#tableContainer {
 }
 
 div#tableRow {	
-display: table-row;
+        display: table-row;
 	
 }
 section#drinks {
@@ -115,10 +115,10 @@ nav ul {
 } 
 
 nav ul li {
-	margin: 0px 0px 0px 0px;
+	/*margin: 0px 0px 0px 0px;*/
         display: inline;
 	/*padding: 5px 10px 5px 10px;*/
-	padding: 0px 10px 0px 10px;
+	/*padding: 0px 10px 0px 10px;*/
 }
 #searchui{
   display: inline;
